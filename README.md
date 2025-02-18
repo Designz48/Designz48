@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Designz48
 - 👀 I’m interested in Python n' Rust
 - 🌱 I’m currently skilled at HTML, CSS, & some Javascript
-- 💻 I use Artix Linux as my daily driver (T460) & use Serpent n' Endeavor OS on my T440
+- 💻 I use Artix Linux as my daily driver (T460), Garuda on a Lenovo laptop for NVIDIA support, Endeavor OS (T440), and Arch BSPWM (L460)
 - 📫 How to reach me: designzbyoj.com
 - ⚡ Fun fact: i like cats
 
