@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Designz48
-- 👀 I’m interested in Python n' Rust
+- 👀 I’m interested in Python, Lua, Rust
 - 🌱 I’m currently skilled at HTML, CSS, & some Javascript
-- 💻 I use Artix Linux as my daily driver (T460), Garuda on a Lenovo laptop for NVIDIA support, Endeavor OS (T440), and Arch BSPWM (L460)
-- 📫 How to reach me: designzbyoj.com
+- 💻 Daily driving Artix Linux (T460), Garuda for NVIDIA support (Lenovo), Endeavor OS (T440), Arch BSPWM (L460)
+- 📫 How to reach me: https://dribbble.com/designzbyoj
 - ⚡ Fun fact: i like cats
 
 <!---
