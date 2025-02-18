@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Lua, Rust
 - 🌱 I’m currently skilled at HTML, CSS, & some Javascript
 - 💻 Daily driving Artix Linux (T460), Garuda for NVIDIA support (Lenovo), Endeavor OS (T440), Arch BSPWM (L460)
-- 📫 How to reach me: https://dribbble.com/designzbyoj
+- 📫 How to reach me: [https://dribbble.com/designzbyoj](https://dribbble.com/DesignzByOJ)
 - ⚡ Fun fact: i like cats
 
 <!---
